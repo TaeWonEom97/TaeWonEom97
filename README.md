@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **TaeWonEom97/TaeWonEom97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=TaeWonEom97&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=TaeWonEom97&fontSize=70&animation=fadeIn)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaeWonEom97&show_icons=true&theme=radical)
